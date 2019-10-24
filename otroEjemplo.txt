@@ -1,3 +1,6 @@
 vamos a generar el contenido del archivo
 como inicio 
 tambien  se agrega un  final.
+
+en este caso se reseteo al segundo cambio del 4 
+por lo tanto este texto esta de relleno.
