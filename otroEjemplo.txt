@@ -33,7 +33,7 @@ este sea tal ves el ultimo cambio
 la finalidad es ver como se combinan los cambios del branch cabecera
 y el master que es la parte principal de este archivo.
 
-Cabecera: 
+Cabecera pero por la parte modificada ahora en master: 
 aqui inicia la Cabecera. 
 
 ok, en este punto me doy cuenta que no se guardo el caso de Cabecera
@@ -48,3 +48,7 @@ se agrema mas contendo y la palabra clave es azul.
 hasta este punto es la ultima moficicacion de Cabecera
 despues de esto se conbinaran ambas ramas
 la rama cabecera y la principal "mnaster".
+
+
+ahora provoque los cambios que generaran conflictos en ambas versiones
+la parte de master y cabecera.
