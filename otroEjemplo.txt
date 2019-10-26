@@ -8,8 +8,11 @@ por lo tanto este texto esta de relleno.
 esto es para generar mas contenido del archivo
 xD.
 
+por este lado voy a provocar cambios para que se genere el error anterior
+con la finalidad de repasar lo sucedido
 
-ahora se generaran nuevod  cambios
+ahora se generaran nuevod  cambios tambien aqui, para que sea mas efectivo.
+
 esto con la finalidad de progesar con lo aprendido
 y si, en el ejemplo era un sitio web, pero la conducion sera la misma. 
 
@@ -19,6 +22,7 @@ por aqui por a generar contenido, con esto vere si en la parte de cabecera se ve
 de no ser asi, todo bien, si si se nota el cambio con un error
 entonces me adelantare a la leccion. 
 
+<<<<<<< HEAD
 se genera otra vez mas estrucutura al contenido.
 es ma seguro que lo siga para  hacer mas recordatorio.
 
@@ -34,6 +38,9 @@ la finalidad es ver como se combinan los cambios del branch cabecera
 y el master que es la parte principal de este archivo.
 
 Cabecera pero por la parte modificada ahora en master: 
+=======
+modificacion en la parte de Cabecera: 
+>>>>>>> cabecera
 aqui inicia la Cabecera. 
 
 ok, en este punto me doy cuenta que no se guardo el caso de Cabecera
