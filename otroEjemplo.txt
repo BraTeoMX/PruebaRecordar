@@ -26,3 +26,8 @@ es mas le pongo el punto final y espacio de linea.
 
 
 se agrema mas contendo y la palabra clave es azul.
+
+
+hasta este punto es la ultima moficicacion de Cabecera
+despues de esto se conbinaran ambas ramas
+la rama cabecera y la principal "mnaster".
