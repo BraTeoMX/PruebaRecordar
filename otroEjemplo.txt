@@ -23,3 +23,6 @@ ok, en este punto me doy cuenta que no se guardo el caso de Cabecera
 lo voy a volver a intentar
 espero si se genere el cambio
 es mas le pongo el punto final y espacio de linea.
+
+
+se agrema mas contendo y la palabra clave es azul.
