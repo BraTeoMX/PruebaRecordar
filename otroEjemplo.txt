@@ -14,3 +14,7 @@ esto con la finalidad de progesar con lo aprendido
 y si, en el ejemplo era un sitio web, pero la conducion sera la misma. 
 
 hasta este aspecto voy a generar un caso nuevo xD
+
+por aqui por a generar contenido, con esto vere si en la parte de cabecera se vera afectado o no,
+de no ser asi, todo bien, si si se nota el cambio con un error
+entonces me adelantare a la leccion. 
