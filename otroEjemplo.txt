@@ -8,15 +8,18 @@ por lo tanto este texto esta de relleno.
 esto es para generar mas contenido del archivo
 xD.
 
+por este lado voy a provocar cambios para que se genere el error anterior
+con la finalidad de repasar lo sucedido
 
-ahora se generaran nuevod  cambios
+ahora se generaran nuevod  cambios tambien aqui, para que sea mas efectivo.
+
 esto con la finalidad de progesar con lo aprendido
 y si, en el ejemplo era un sitio web, pero la conducion sera la misma. 
 
 hasta este aspecto voy a generar un caso nuevo xD
 
 
-Cabecera: 
+modificacion en la parte de Cabecera: 
 aqui inicia la Cabecera. 
 
 ok, en este punto me doy cuenta que no se guardo el caso de Cabecera
