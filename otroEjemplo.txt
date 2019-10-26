@@ -27,3 +27,8 @@ pero para diferenciarlo
 lo voy a generar
 de esta 
 forma.
+
+
+este sea tal ves el ultimo cambio
+la finalidad es ver como se combinan los cambios del branch cabecera
+y el master que es la parte principal de este archivo.
