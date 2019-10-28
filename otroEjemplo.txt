@@ -1,3 +1,6 @@
+esta modificacion es por el cambio de respoitorio con ssh 
+:3 
+
 vamos a generar el contenido del archivo
 como inicio 
 tambien  se agrega un  final.
@@ -22,7 +25,6 @@ por aqui por a generar contenido, con esto vere si en la parte de cabecera se ve
 de no ser asi, todo bien, si si se nota el cambio con un error
 entonces me adelantare a la leccion. 
 
-<<<<<<< HEAD
 se genera otra vez mas estrucutura al contenido.
 es ma seguro que lo siga para  hacer mas recordatorio.
 
@@ -38,9 +40,7 @@ la finalidad es ver como se combinan los cambios del branch cabecera
 y el master que es la parte principal de este archivo.
 
 Cabecera pero por la parte modificada ahora en master: 
-=======
 modificacion en la parte de Cabecera: 
->>>>>>> cabecera
 aqui inicia la Cabecera. 
 
 ok, en este punto me doy cuenta que no se guardo el caso de Cabecera
