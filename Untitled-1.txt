@@ -1,0 +1,25 @@
+comandos especificos  por parte de git
+
+primero para mandar un repositorio creado a github es improtante el siguiente codigo: 
+
+git remote add origin <el link de la pagina de github>
+
+en caso de ser rechazado dado que en github se probocaron fallas por crear readme.md y tener conflicto con master
+se procede a hacer lo siguiente: 
+
+git pull origin master
+
+de esta manera se generan los cambios 
+despues, el sistema marca una condicion de negacion porque no existe la fusion de ambos archvios, por lo tanto 
+se procede a forzar la fusion y al mismo tiempo subir el repositorio con el siguiente commando. 
+se opta por lo siguiente:
+
+git pull origin master --allow-unrelated-histories
+
+despues se abrira el editor de texto predeterminado en git y solo es para indicar que ahora si se generen los cambios
+es decir con el siguiente comando:
+
+git push origin master
+
+despues de cargar el proceso
+se puede actualizar la pagina para notar los ca
